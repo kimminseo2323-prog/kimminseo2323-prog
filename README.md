@@ -23,7 +23,7 @@
 | **[daejeon-tashu-rebalancing](https://github.com/kimminseo2323-prog/daejeon-tashu-rebalancing)** | 공영자전거 대여·반납 660만 건 정제, 통계검증, K-Means 대여소 유형화 |
 | **[yangju-regional-imbalance](https://github.com/kimminseo2323-prog/yangju-regional-imbalance)** | 7개 분야 56개 지표 표준화, 지니계수·Lorenz로 지역 불균형 평가체계 구축 |
 | **[siheung-cultural-soc](https://github.com/kimminseo2323-prog/siheung-cultural-soc)** | 카드 소비 기반 문화생활 수요·공급·접근성 지표, 4분면 분석 모형 |
-| **[public-data-analysis-portfolio](https://github.com/kimminseo2323-prog/public-data-analysis-portfolio)** | 생활인구(공주·시흥), 구비서류 NLP, 취약지역 점수, 농기계 임대, 상품권 고객, 생활업종, 정주여건, 주차 수요공급, 강남역 상권, 늘봄 수요예측 등 10건 묶음 |
+| **[public-data-analysis-portfolio](https://github.com/kimminseo2323-prog/public-data-analysis-portfolio)** | 생활인구(공주·시흥), 구비서류 NLP, 취약지역 점수, 농기계 임대, 상품권 고객, 생활업종, 정주여건, 주차 수요공급, 강남역 상권, 늘봄 수요예측 등 11건 묶음(10개 폴더, 생활인구는 공주·시흥 2건) |
 
 ## 공모전 · 과제
 | | |
